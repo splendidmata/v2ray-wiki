@@ -1,4 +1,4 @@
-# SSPANEL通用客户端（完美支持SSR/V2RAY，SS将在下个版本支持）:👉[查看频道](https://t.me/sspanelclient)
+# NAP客户端（完美支持SS/SSR/V2RAY，Trojian节点将在下个版本支持）:👉[查看频道](https://t.me/NAP_channel)
 
 在此感谢上游项目[Netch](https://netch.org/#/)
 
@@ -19,7 +19,7 @@
 
 大概看了市面上的一些友商，以客观的方式列出个表比对，有不对欢迎指正[@ColinWood](https://t.me/ColinWood)
 
-|   | 未知 | [Project Soraka](https://t.me/project_soraka) | [通用客户端](https://t.me/sspanelclient) |
+|   | 未知 | [Project Soraka](https://t.me/project_soraka) | [NAP客户端](https://t.me/NAP_channel) |
 | ------ | ------ | ------ | ------ |
 | 上游项目 | 未知 | Netch | Netch |
 | 可用端 | 未知 | Windows | Windows |
@@ -30,5 +30,5 @@
 | 操作说明 | 未知 |  有 | 有 |
 | 技术指导 | 未知 |  有 | 有 |
 | 关于卖家 | 礼尚往来 |  不开机场佛系咕咕咕  | 开机场的佛系咕咕咕 |
-| 价格 | 未知 |  299首月，续费现在是99，之后估计会是以30为单位涨涨（原订单价格不变） | 月付250/季付688/半年付1316/年付2500（会随着更新涨价，原订单价格不变） |
+| 价格（截止至之前） | 未知 |  299首月，续费现在是99，之后估计会是以30为单位涨涨（原订单价格不变） | 月付250/季付688/半年付1316/年付2500（会随着更新涨价，原订单价格不变） |
 | 购买站点 | 未知 |  [https://www.kaguya-hime.me/](https://www.kaguya-hime.me/) | [https://maomi.cloud/buy/index/2/](https://maomi.cloud/buy/index/2/) |
