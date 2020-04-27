@@ -3,6 +3,10 @@ Welcome to the v2ray-sspanel-v3-mod_Uim-plugin wiki!
 ## Change log
 4.22.1:
 
+
+    4.22.1.13:
+
+      1. 修复上传数据流量没统计的问题，影响版本 4.22.1.8-4.22.1.12， 鞠躬道歉
     4.22.1.12:
        
       1. useip改成useipv4默认
