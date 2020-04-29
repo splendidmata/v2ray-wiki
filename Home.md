@@ -3,6 +3,13 @@ Welcome to the v2ray-sspanel-v3-mod_Uim-plugin wiki!
 ## Change log
 4.22.1:
 
+    4.22.1.15:
+
+      1. 更新Dockerfile 和 普通安装脚本 来修复 acme.sh引起的 cf无法自动tls的问题
+
+    4.22.1.14:
+      
+      1. 修复不给cf aliyun信息 加载tls的问题
 
     4.22.1.13:
 
