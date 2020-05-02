@@ -14,7 +14,7 @@
 
 再PS：我的小站，请大佬手下留情。阿里云轻量一摸就死。
 
-通用客户端专属的随机优惠，购买前联系[@ColinWood](https://t.me/ColinWood)说：Gitlab来的
+如果想买NAP，购买前联系[@ColinWood](https://t.me/ColinWood)说：Gitlab来的，有神秘优惠
 
 
 大概看了市面上的一些友商，以客观的方式列出个表比对，有不对欢迎指正[@ColinWood](https://t.me/ColinWood)
